@@ -1,4 +1,4 @@
 # DeliciousApp
 
-การออกเเบบเเละการทำงานของแอป by Figma 
-https://www.figma.com/file/kOrEi3NkICsjbcHT74Yui1/Delicoius?node-id=0%3A1
+การออกเเบบ by Figma 
+https://www.figma.com/community/file/1023909672217541143/Delicoius
